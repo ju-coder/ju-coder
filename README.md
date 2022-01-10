@@ -1,5 +1,4 @@
-Hi there! 
+Hi everyone! 
 
-- 👋 Hi, I’m Júlia Vieira
-- 👀 I'm interested in front end development!
-- 🌱 I’m currently learning SASS and JAVA OO
+I´m Júlia! In the moment, I have learned about Java and support client.
+Nerd in my free time. 
