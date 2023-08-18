@@ -1,4 +1,3 @@
 Hi everyone! 
 
-I´m Júlia! In the moment, I have learned about Java and support client.
-Nerd in my free time. 
+I´m Júlia! I am currently working at SAP as Hybris Support Engineer. Working with Cloud as kubernets, Azure and Hybris platform. Graduated in Analyse and System Development, pos graduate in Cloud Computing. 
